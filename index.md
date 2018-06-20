@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Loctite 3DP Post Processing 
 
 You can use the [editor on GitHub](https://github.com/Bubicek81/3DP-Post-Processing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
